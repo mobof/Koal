@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-27T15:17:38.365Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" etag="57xhCVzqq7NzpuHYd-E3" version="14.1.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-27T15:22:02.750Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" etag="2i6w-hN_4GluZxWUbV_-" version="14.1.9" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="946" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -85,22 +85,22 @@
           <mxGeometry x="120" y="120" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CAKOB3ZQWrLJ5BJZfZmn-133" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;fontSize=12;fontColor=none;" vertex="1" parent="1">
-          <mxGeometry x="220" y="132" width="15" height="15" as="geometry" />
+          <mxGeometry x="378" y="132" width="15" height="15" as="geometry" />
         </mxCell>
         <mxCell id="CAKOB3ZQWrLJ5BJZfZmn-135" value="用户" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=11;fontColor=none;" vertex="1" parent="1">
-          <mxGeometry x="240" y="130" width="40" height="20" as="geometry" />
+          <mxGeometry x="395" y="130" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="CAKOB3ZQWrLJ5BJZfZmn-136" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="300" y="130" width="46.67" height="20" as="geometry" />
+          <mxGeometry x="431" y="130" width="46.67" height="20" as="geometry" />
         </mxCell>
         <mxCell id="CAKOB3ZQWrLJ5BJZfZmn-137" value="APP自定义界面" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=11;fontColor=none;" vertex="1" parent="1">
-          <mxGeometry x="357" y="130" width="80" height="20" as="geometry" />
+          <mxGeometry x="479" y="130" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="CAKOB3ZQWrLJ5BJZfZmn-138" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="463" y="130" width="46.67" height="20" as="geometry" />
+          <mxGeometry x="578" y="130" width="46.67" height="20" as="geometry" />
         </mxCell>
         <mxCell id="CAKOB3ZQWrLJ5BJZfZmn-139" value="UIKit界面" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=11;fontColor=none;" vertex="1" parent="1">
-          <mxGeometry x="520" y="130" width="80" height="20" as="geometry" />
+          <mxGeometry x="626" y="130" width="54" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
