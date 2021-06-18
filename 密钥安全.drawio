@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-18T10:12:53.355Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" etag="ukdbnam8y55YjOmK-WnH" version="14.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-18T10:24:55.421Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" etag="ops8WXzkAxfAJR2Sd4Au" version="14.7.0" type="github">
   <diagram id="mQvSKPtjcyFuUExqqYhi" name="Page-1">
     <mxGraphModel dx="946" dy="543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -130,11 +130,11 @@
         </mxCell>
         <mxCell id="H5b9oZh15vuoIAr32jvK-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.1;entryY=0.475;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="445.5" y="495" as="sourcePoint" />
-            <mxPoint x="156.5" y="495" as="targetPoint" />
+            <mxPoint x="445.5" y="507" as="sourcePoint" />
+            <mxPoint x="156.5" y="507" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="370.5" y="495" />
-              <mxPoint x="370.5" y="495" />
+              <mxPoint x="370.5" y="507" />
+              <mxPoint x="370.5" y="507" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -144,15 +144,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="H5b9oZh15vuoIAr32jvK-37" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
-          <mxGeometry x="285" y="515" width="10" height="70" as="geometry" />
+          <mxGeometry x="285" y="527" width="10" height="70" as="geometry" />
         </mxCell>
         <mxCell id="H5b9oZh15vuoIAr32jvK-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="156" y="529" as="sourcePoint" />
-            <mxPoint x="283" y="529" as="targetPoint" />
+            <mxPoint x="156" y="541" as="sourcePoint" />
+            <mxPoint x="283" y="541" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="191" y="529" />
-              <mxPoint x="191" y="529" />
+              <mxPoint x="191" y="541" />
+              <mxPoint x="191" y="541" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -162,15 +162,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="H5b9oZh15vuoIAr32jvK-40" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
-          <mxGeometry x="290" y="535" width="10" height="30" as="geometry" />
+          <mxGeometry x="290" y="547" width="10" height="30" as="geometry" />
         </mxCell>
         <mxCell id="H5b9oZh15vuoIAr32jvK-41" value="加密文件、数据" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;elbow=vertical;edgeStyle=orthogonalEdgeStyle;curved=1;entryX=1;entryY=0.286;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="300.3800000000001" y="543" as="sourcePoint" />
-            <mxPoint x="295" y="580.96" as="targetPoint" />
+            <mxPoint x="300.3800000000001" y="555" as="sourcePoint" />
+            <mxPoint x="295" y="592.96" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="345" y="542.94" />
-              <mxPoint x="345" y="580.94" />
+              <mxPoint x="345" y="554.94" />
+              <mxPoint x="345" y="592.94" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -178,6 +178,20 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="80" y="440" as="sourcePoint" />
             <mxPoint x="600" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H5b9oZh15vuoIAr32jvK-45" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="450" y="464" width="10" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="H5b9oZh15vuoIAr32jvK-46" value="私钥解密缓存的密钥" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;elbow=vertical;edgeStyle=orthogonalEdgeStyle;curved=1;entryX=1;entryY=0.286;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry x="0.065" y="15" relative="1" as="geometry">
+            <mxPoint x="461.3800000000001" y="470" as="sourcePoint" />
+            <mxPoint x="456" y="507.96000000000004" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="506" y="469.94" />
+              <mxPoint x="506" y="507.94000000000005" />
+            </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
