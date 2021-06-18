@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2021-06-18T09:21:04.635Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" etag="-fnkW2y8zyRSYW72sFQa" version="14.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-18T09:24:40.810Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" etag="vGbO5Lhr92vrIrEGwihu" version="14.7.0" type="github">
   <diagram id="mQvSKPtjcyFuUExqqYhi" name="Page-1">
     <mxGraphModel dx="946" dy="543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="H5b9oZh15vuoIAr32jvK-6" value="加固" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+        <mxCell id="H5b9oZh15vuoIAr32jvK-6" value="加解密" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
           <mxGeometry x="240" y="80" width="100" height="640" as="geometry" />
         </mxCell>
         <mxCell id="H5b9oZh15vuoIAr32jvK-7" value="SDK" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
@@ -66,9 +66,9 @@
             <mxPoint x="155" y="319" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="H5b9oZh15vuoIAr32jvK-26" value="初始化加固(创建密钥)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="H5b9oZh15vuoIAr32jvK-25">
+        <mxCell id="H5b9oZh15vuoIAr32jvK-26" value="初始化加解密模块&lt;br&gt;(创建密钥)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="H5b9oZh15vuoIAr32jvK-25">
           <mxGeometry x="0.0387" y="3" relative="1" as="geometry">
-            <mxPoint x="-7" y="-6" as="offset" />
+            <mxPoint x="-7" y="-13" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="H5b9oZh15vuoIAr32jvK-27" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
@@ -153,9 +153,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="H5b9oZh15vuoIAr32jvK-39" value="初始化加固" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="H5b9oZh15vuoIAr32jvK-38">
+        <mxCell id="H5b9oZh15vuoIAr32jvK-39" value="初始化加解密模块&lt;br&gt;(从SDK获取的密钥)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="H5b9oZh15vuoIAr32jvK-38">
           <mxGeometry x="0.0387" y="3" relative="1" as="geometry">
-            <mxPoint y="-6" as="offset" />
+            <mxPoint y="19" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="H5b9oZh15vuoIAr32jvK-40" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
