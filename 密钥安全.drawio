@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-18T10:47:47.599Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" etag="e__uip7WyYYhZzLYiLW-" version="14.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-18T10:57:00.818Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" etag="VL0WkR_30j5jyUVXnOeK" version="14.7.0" type="github">
   <diagram id="mQvSKPtjcyFuUExqqYhi" name="Page-1">
     <mxGraphModel dx="946" dy="543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -22,7 +22,7 @@
         <mxCell id="H5b9oZh15vuoIAr32jvK-11" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="H5b9oZh15vuoIAr32jvK-10">
           <mxGeometry x="45" y="100" width="10" height="390" as="geometry" />
         </mxCell>
-        <mxCell id="H5b9oZh15vuoIAr32jvK-16" value="初始化账号" style="html=1;verticalAlign=bottom;endArrow=block;entryX=-0.1;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="H5b9oZh15vuoIAr32jvK-11" target="H5b9oZh15vuoIAr32jvK-8">
+        <mxCell id="H5b9oZh15vuoIAr32jvK-16" value="初始化SDK" style="html=1;verticalAlign=bottom;endArrow=block;entryX=-0.1;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="H5b9oZh15vuoIAr32jvK-11" target="H5b9oZh15vuoIAr32jvK-8">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="220" y="190" as="sourcePoint" />
             <mxPoint x="285" y="180" as="targetPoint" />
@@ -51,7 +51,7 @@
             <mxPoint x="445" y="264" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="H5b9oZh15vuoIAr32jvK-23" value="账号初始化成功" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="H5b9oZh15vuoIAr32jvK-22">
+        <mxCell id="H5b9oZh15vuoIAr32jvK-23" value="SDK初始化成功" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="H5b9oZh15vuoIAr32jvK-22">
           <mxGeometry x="0.0381" y="-2" relative="1" as="geometry">
             <mxPoint x="5" y="-7" as="offset" />
           </mxGeometry>
