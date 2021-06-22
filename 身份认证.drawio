@@ -1,1 +1,91 @@
-<mxfile host="app.diagrams.net" modified="2021-06-22T08:15:40.203Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" version="14.8.0" etag="SRIR4tTRfoNypfEate3g" type="github"><diagram id="TxOR8wTqyYN5a8GMDEJV">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-06-22T08:51:31.842Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="psG7WJ4VGc2PeKVJMxB7" version="14.8.0" type="github">
+  <diagram id="TxOR8wTqyYN5a8GMDEJV" name="Page-1">
+    <mxGraphModel dx="946" dy="538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="EGGXxvqWK4PNYSUtuNdD-5" value="&lt;font style=&quot;font-size: 20px&quot;&gt;SDK&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="200" y="120" width="320" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="EGGXxvqWK4PNYSUtuNdD-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="EGGXxvqWK4PNYSUtuNdD-1" target="EGGXxvqWK4PNYSUtuNdD-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EGGXxvqWK4PNYSUtuNdD-16" value="获取公钥" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EGGXxvqWK4PNYSUtuNdD-15">
+          <mxGeometry x="-0.2308" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EGGXxvqWK4PNYSUtuNdD-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="EGGXxvqWK4PNYSUtuNdD-1" target="EGGXxvqWK4PNYSUtuNdD-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EGGXxvqWK4PNYSUtuNdD-25" value="获取证书信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="EGGXxvqWK4PNYSUtuNdD-22">
+          <mxGeometry x="-0.1648" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EGGXxvqWK4PNYSUtuNdD-1" value="软介质" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="217" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EGGXxvqWK4PNYSUtuNdD-2" value="SSO&lt;br&gt;SERVER" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="560" y="120" width="80" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="EGGXxvqWK4PNYSUtuNdD-4" value="FIDO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="321" y="131" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EGGXxvqWK4PNYSUtuNdD-6" value="CDS&lt;br&gt;SERVER" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="80" y="120" width="80" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="EGGXxvqWK4PNYSUtuNdD-8" value="" style="shape=flexArrow;endArrow=classic;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;width=4;endSize=2.33;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="211" as="sourcePoint" />
+            <mxPoint x="160" y="211" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EGGXxvqWK4PNYSUtuNdD-12" value="初始化终端" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EGGXxvqWK4PNYSUtuNdD-8">
+          <mxGeometry x="0.15" y="1" relative="1" as="geometry">
+            <mxPoint x="23" y="-15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EGGXxvqWK4PNYSUtuNdD-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="EGGXxvqWK4PNYSUtuNdD-9" target="EGGXxvqWK4PNYSUtuNdD-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EGGXxvqWK4PNYSUtuNdD-17" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;绑定Touch ID&lt;br style=&quot;font-size: 12px;&quot;&gt;Face ID&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="EGGXxvqWK4PNYSUtuNdD-13">
+          <mxGeometry x="0.08" y="2" relative="1" as="geometry">
+            <mxPoint x="1" y="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EGGXxvqWK4PNYSUtuNdD-9" value="生物特征校验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="217" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EGGXxvqWK4PNYSUtuNdD-11" value="创建密钥对&lt;br&gt;安装证书" style="shape=flexArrow;endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;width=4;endSize=2.32;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" target="EGGXxvqWK4PNYSUtuNdD-1">
+          <mxGeometry x="-0.3908" y="-19" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="162" y="238" as="sourcePoint" />
+            <mxPoint x="200" y="247" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EGGXxvqWK4PNYSUtuNdD-21" value="CAS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="268" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EGGXxvqWK4PNYSUtuNdD-26" value="" style="shape=flexArrow;endArrow=classic;html=1;fontSize=12;exitX=1;exitY=0.5;exitDx=0;exitDy=0;width=5;endSize=3.67;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="287.5" as="sourcePoint" />
+            <mxPoint x="560" y="287.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EGGXxvqWK4PNYSUtuNdD-27" value="创建签名数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="507" y="274" as="geometry" />
+        </mxCell>
+        <mxCell id="EGGXxvqWK4PNYSUtuNdD-28" value="" style="shape=flexArrow;endArrow=classic;html=1;fontSize=12;exitX=1;exitY=0.5;exitDx=0;exitDy=0;width=5;endSize=3.67;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="401" y="151.5" as="sourcePoint" />
+            <mxPoint x="561" y="151.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EGGXxvqWK4PNYSUtuNdD-29" value="创建FIDO认证数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="494" y="138" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
