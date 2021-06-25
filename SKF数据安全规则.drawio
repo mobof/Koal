@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2021-06-25T03:48:28.037Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="djSCY6AQa5vKnlJ8kbLf" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-25T03:49:06.648Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="A6H_mlvfIXLUpPV0kym2" version="14.8.0" type="github">
   <diagram id="NBq3CgPERG1pBXBx40WU" name="Page-1">
-    <mxGraphModel dx="946" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="479" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Ex2G36TkrBTLP0KI2J1V-69" value="" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;labelBackgroundColor=none;sketch=0;fontSize=11;fontColor=#000000;strokeWidth=1;fillColor=none;align=right;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="200" y="160" width="880" height="440" as="geometry" />
+        </mxCell>
         <mxCell id="Ex2G36TkrBTLP0KI2J1V-57" value="&lt;b&gt;&lt;font color=&quot;#ea6b66&quot;&gt;根据设备特征、管理PIN及用户PIN计算&lt;br&gt;不落地保存&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;labelBackgroundColor=none;sketch=0;fontColor=#000000;strokeWidth=1;align=right;verticalAlign=bottom;dashed=1;fillColor=none;strokeColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="600" y="200" width="240" height="360" as="geometry" />
         </mxCell>
@@ -20,12 +23,13 @@
             <mxPoint x="-24" y="-8" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ex2G36TkrBTLP0KI2J1V-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#82b366;entryX=1.004;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Ex2G36TkrBTLP0KI2J1V-1" target="Ex2G36TkrBTLP0KI2J1V-16">
+        <mxCell id="Ex2G36TkrBTLP0KI2J1V-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#82b366;entryX=1.004;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="570" y="398" as="targetPoint" />
+            <mxPoint x="640" y="400" as="sourcePoint" />
+            <mxPoint x="569.9200000000001" y="400" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="620" y="398" />
-              <mxPoint x="620" y="398" />
+              <mxPoint x="620" y="400" />
+              <mxPoint x="620" y="400" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -114,7 +118,7 @@
         <mxCell id="Ex2G36TkrBTLP0KI2J1V-18" value="sig_cer--签名证书" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Ex2G36TkrBTLP0KI2J1V-17">
           <mxGeometry y="26" width="140" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="Ex2G36TkrBTLP0KI2J1V-19" value="sig_pk8--签名证书私钥" style="text;fillColor=#f0a30a;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="Ex2G36TkrBTLP0KI2J1V-17">
+        <mxCell id="Ex2G36TkrBTLP0KI2J1V-19" value="sig_pk8--签名证书私钥" style="text;fillColor=#f0a30a;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#000000;" vertex="1" parent="Ex2G36TkrBTLP0KI2J1V-17">
           <mxGeometry y="52" width="140" height="26" as="geometry" />
         </mxCell>
         <mxCell id="Ex2G36TkrBTLP0KI2J1V-20" value="sig_pub--签名证书公钥" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Ex2G36TkrBTLP0KI2J1V-17">
@@ -123,7 +127,7 @@
         <mxCell id="Ex2G36TkrBTLP0KI2J1V-38" value="enc_cer--加密证书" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Ex2G36TkrBTLP0KI2J1V-17">
           <mxGeometry y="104" width="140" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="Ex2G36TkrBTLP0KI2J1V-39" value="enc_pk8--加密证书私钥" style="text;fillColor=#f0a30a;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="Ex2G36TkrBTLP0KI2J1V-17">
+        <mxCell id="Ex2G36TkrBTLP0KI2J1V-39" value="enc_pk8--加密证书私钥" style="text;fillColor=#f0a30a;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#000000;" vertex="1" parent="Ex2G36TkrBTLP0KI2J1V-17">
           <mxGeometry y="130" width="140" height="26" as="geometry" />
         </mxCell>
         <mxCell id="Ex2G36TkrBTLP0KI2J1V-40" value="enc_pub--加密证书公钥" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Ex2G36TkrBTLP0KI2J1V-17">
@@ -169,9 +173,6 @@
         </mxCell>
         <mxCell id="Ex2G36TkrBTLP0KI2J1V-68" value="ADK(管理密钥对)&lt;br&gt;&lt;span style=&quot;color: rgb(241 , 156 , 153)&quot;&gt;SM2算法密钥对&lt;br&gt;用于加密用户PIN码&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;labelBackgroundColor=none;sketch=0;fontSize=11;fontColor=#000000;labelBorderColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="176" y="260" width="166" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="Ex2G36TkrBTLP0KI2J1V-69" value="" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;labelBackgroundColor=none;sketch=0;fontSize=11;fontColor=#000000;strokeWidth=1;fillColor=none;align=right;verticalAlign=bottom;" vertex="1" parent="1">
-          <mxGeometry x="200" y="160" width="880" height="440" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
