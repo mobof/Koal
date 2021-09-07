@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-07T05:43:17.239Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" etag="8z4hx2LdJIHjvC-mwV0d" version="14.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-07T05:53:23.466Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" etag="n-VftFeqvdWwfGGe0MSJ" version="14.7.0" type="github">
   <diagram id="6imWZsSA1UWf6HAIqSkL" name="Page-1">
     <mxGraphModel dx="119" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -25,7 +25,7 @@
         <mxCell id="tUy6UiczHFlV-gSkyuVa-7" value="IDaaS" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fillColor=none;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="1090" y="374.69000000000005" width="280" height="50.62" as="geometry" />
         </mxCell>
-        <mxCell id="tUy6UiczHFlV-gSkyuVa-9" value="BIO&lt;br&gt;(指纹、面部)" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fillColor=none;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="tUy6UiczHFlV-gSkyuVa-9" value="BIO&lt;br&gt;(&lt;font style=&quot;font-size: 10px&quot;&gt;指纹、面部&lt;/font&gt;)" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fillColor=none;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="1090" y="455" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="tUy6UiczHFlV-gSkyuVa-13" value="CDS&lt;br style=&quot;font-size: 13px;&quot;&gt;Cert、SSL" style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=13;fontColor=#FFFFFF;strokeColor=#FFFFFF;" vertex="1" parent="1">
@@ -54,7 +54,7 @@
         <mxCell id="tUy6UiczHFlV-gSkyuVa-21" value="&lt;font color=&quot;#ffffff&quot;&gt;SDK&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=12;fontColor=#67AB9F;strokeColor=#FFFFFF;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1090" y="322" width="380" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="tUy6UiczHFlV-gSkyuVa-23" value="FIDO&lt;br&gt;(认证器)" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fillColor=none;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="tUy6UiczHFlV-gSkyuVa-23" value="FIDO&lt;br&gt;(&lt;font style=&quot;font-size: 10px&quot;&gt;认证器&lt;/font&gt;)" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fillColor=none;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="1188" y="455" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="tUy6UiczHFlV-gSkyuVa-48" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;fontFamily=Verdana;fontSize=20;fontColor=#000000;exitX=0.939;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;width=8;endSize=4.67;endWidth=10;fillColor=#e1d5e7;strokeColor=none;" edge="1" parent="1" source="tUy6UiczHFlV-gSkyuVa-25" target="tUy6UiczHFlV-gSkyuVa-42">
@@ -88,7 +88,7 @@
         <mxCell id="tUy6UiczHFlV-gSkyuVa-30" value="&lt;font color=&quot;#ffffff&quot;&gt;uni-app插件&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=12;fontColor=#67AB9F;strokeColor=#FFFFFF;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1320" y="252" width="150" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="tUy6UiczHFlV-gSkyuVa-40" value="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;A&lt;br&gt;P&lt;br&gt;P&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=12;fillColor=#ABABAB;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="tUy6UiczHFlV-gSkyuVa-40" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;A&lt;br&gt;P&lt;br&gt;P&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=12;fillColor=#ABABAB;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="1040" y="120" width="40" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tUy6UiczHFlV-gSkyuVa-41" value="Native APP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
@@ -100,7 +100,7 @@
         <mxCell id="tUy6UiczHFlV-gSkyuVa-43" value="uni-app" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="1355" y="140" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tUy6UiczHFlV-gSkyuVa-24" value="&lt;font color=&quot;#ffffff&quot;&gt;CDS&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;SSL&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="tUy6UiczHFlV-gSkyuVa-24" value="&lt;font color=&quot;#ffffff&quot;&gt;CDS、CURL&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;SSL、SKF&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="1390" y="375" width="80" height="130" as="geometry" />
         </mxCell>
         <mxCell id="tUy6UiczHFlV-gSkyuVa-62" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.839;entryY=1.014;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Verdana;fontSize=20;fontColor=#FFFFFF;width=8;endSize=3;endWidth=12;strokeColor=none;fillColor=#FFFFFF;" edge="1" parent="1">
