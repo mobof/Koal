@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-07T06:24:34.161Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" etag="V-KaNRROQRZtxAf-ApoM" version="14.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-07T06:29:20.660Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" etag="amgD_9CXLoInDnfWKevd" version="14.7.0" type="github">
   <diagram id="6imWZsSA1UWf6HAIqSkL" name="Page-1">
     <mxGraphModel dx="119" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -23,16 +23,13 @@
           <mxGeometry x="1388" y="375" width="80" height="130" as="geometry" />
         </mxCell>
         <mxCell id="tUy6UiczHFlV-gSkyuVa-7" value="IDaaS" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fillColor=none;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="1090" y="374.69000000000005" width="280" height="50.62" as="geometry" />
+          <mxGeometry x="1188" y="374.69" width="182" height="50.62" as="geometry" />
         </mxCell>
         <mxCell id="tUy6UiczHFlV-gSkyuVa-9" value="BIO&lt;br&gt;(&lt;font style=&quot;font-size: 10px&quot;&gt;指纹、面部&lt;/font&gt;)" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fillColor=none;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="1090" y="455" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="tUy6UiczHFlV-gSkyuVa-13" value="CDS&lt;br style=&quot;font-size: 13px;&quot;&gt;Cert、SSL" style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=13;fontColor=#FFFFFF;strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="1310" y="287" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="tUy6UiczHFlV-gSkyuVa-60" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.839;entryY=1.014;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Verdana;fontSize=20;fontColor=#FFFFFF;width=8;endSize=3;endWidth=12;strokeColor=none;fillColor=#FFFFFF;" edge="1" parent="1" source="tUy6UiczHFlV-gSkyuVa-15" target="tUy6UiczHFlV-gSkyuVa-7">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tUy6UiczHFlV-gSkyuVa-15" value="Native&lt;br&gt;(&lt;font style=&quot;font-size: 10px&quot;&gt;扫码&lt;font style=&quot;font-size: 10px&quot;&gt;、蓝牙、&lt;br&gt;NFC、Location&lt;/font&gt;&lt;/font&gt;)" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fillColor=none;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="1280" y="455" width="90" height="50" as="geometry" />
@@ -119,6 +116,21 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1389" y="400" as="sourcePoint" />
             <mxPoint x="1369" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tUy6UiczHFlV-gSkyuVa-71" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.839;entryY=1.014;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Verdana;fontSize=20;fontColor=#FFFFFF;width=8;endSize=3;endWidth=12;strokeColor=none;fillColor=#FFFFFF;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1325" y="455" as="sourcePoint" />
+            <mxPoint x="1324.92" y="426.01868" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tUy6UiczHFlV-gSkyuVa-72" value="IDaaS" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fillColor=none;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="374.69" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="tUy6UiczHFlV-gSkyuVa-73" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;fontSize=20;fontColor=#FFFFFF;width=8;endSize=3;endWidth=12;strokeColor=none;fillColor=#FFFFFF;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1170" y="399.81" as="sourcePoint" />
+            <mxPoint x="1188" y="399.81" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
