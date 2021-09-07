@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-07T06:56:14.543Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" etag="hzZhLX2UVp7A9W1NT9qN" version="14.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-07T07:25:16.373Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" etag="peBOfSXMb3fJPAbSaZnM" version="14.7.0" type="github">
   <diagram id="6imWZsSA1UWf6HAIqSkL" name="Page-1">
     <mxGraphModel dx="119" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -31,7 +31,7 @@
         <mxCell id="tUy6UiczHFlV-gSkyuVa-13" value="CDS&lt;br style=&quot;font-size: 13px;&quot;&gt;Cert、SSL" style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=13;fontColor=#FFFFFF;strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="1310" y="287" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tUy6UiczHFlV-gSkyuVa-15" value="Native&lt;br&gt;(&lt;font style=&quot;font-size: 10px&quot;&gt;扫码&lt;font style=&quot;font-size: 10px&quot;&gt;、蓝牙、&lt;br&gt;NFC、Location&lt;/font&gt;&lt;/font&gt;)" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fillColor=none;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="tUy6UiczHFlV-gSkyuVa-15" value="Native能力&lt;br&gt;(&lt;font style=&quot;font-size: 10px&quot;&gt;QR Scan&lt;font style=&quot;font-size: 10px&quot;&gt;/&lt;font style=&quot;font-size: 10px&quot;&gt;NFC&lt;br&gt;Bluetooth/LBS&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;)" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fillColor=none;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="1280" y="455" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="tUy6UiczHFlV-gSkyuVa-17" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#3A5431;gradientDirection=south;fillColor=#6d8764;labelPosition=right;verticalLabelPosition=top;align=left;verticalAlign=bottom;fontColor=#67AB9F;" vertex="1" parent="1">
